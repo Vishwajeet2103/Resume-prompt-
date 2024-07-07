@@ -1,0 +1,69 @@
+You are an expert in parsing documents and converting them into structured JSON format. I will provide you with the text content of a resume. Your task is to parse this content and convert it into a JSON format. The JSON should contain fields such as Name, Contact Information, Summary, Education, Experience, Skills, Projects, and Certifications. Here is the resume text:
+
+Vishwajeet Singh
+SRM University, Chennai 
+vd0619@srmist.edu.in
+8094670479
+
+Summary:
+I am a college student majoring in Computer Science with a keen interest in Full Stack Development. Proficient in C++ and JavaScript,
+
+
+I aim to bridge front-end and back-end technologies to create impactful web applications. I have a strong ability to solve complex
+
+
+problems, maintain a strong work ethic, and enthusiastically tackle challenges. I am determined to contribute my skills to web
+
+development projects and grow professionally in this field
+
+Education:
+SRM Institute of Science & Technology, Kattankulathur 2021  -  2025
+
+
+B.Tech. - CSE - Software Engineering | CGPA: 8.29 / 10
+
+
+Central Academy shikshantar, Senior Secondary School, Kota 2020
+12th | CBSE | Percentage: 80 / 100
+
+
+St. Mary's High School, Mt.Abu 2018
+
+10th | CISCE | Percentage: 69 / 100
+
+
+
+Skills:
+- Programming: Python, JavaScript, C++
+- Web Development: React, Node.js
+
+Projects:
+Real Estate App 02 Feb, 2024  -  23 Feb, 2024
+Key Skills: Node.js Express.js React.js MongoDB
+Project Link:  https://github.com/Vishwajeet2103/Mern-stack-estate-app
+Developed a MERN-stack real estate application enabling users to create property listings, contact landlords, and check availability for
+sale and rent. Implemented user authentication and authorization, ensuring secure access to the platform.Integrated interactive features
+like property search, filter, and detailed listing views to enhance user experience.
+
+
+Youtube_Video_Bookmaker_Extention 03 Sep, 2023  -  12 Oct, 2023
+Team Size: 2
+Key Skills: CSS Javascript JSON HTML5
+Project Link:  https://github.com/Vishwajeet2103/Youtube_Bookmark_Extension
+Create and manage bookmarks with timestamps for YouTube videos using this Chrome extension. Never lose track of important
+moments in videos again. Easily mark, label, and jump to specific timestamps while watching YouTube content.
+
+
+Drum_Kit 10 Apr, 2023  -  14 May, 2023
+Team Size: 1
+Key Skills: HTML5 CSS Flexbox Javascript
+Project Link:  https://vishwajeet2103.github.io/DrumKit-/
+Creating a drum kit in this way allows you to customize it according to your preferences, whether it's adding different drum sounds,
+adjusting the layout, or even incorporating animations for a more dynamic user experience
+
+Certifications:
+
+Meta Front-End Developer and Meta Back-End Developer course certificate offered by Meta
+Networking Basis course certificate offered by Cisco Networking Academy
+Problem Solving Intermediate certificate offered by HackerRank
+Web Development Bootcamp course certificate offered by Udemy
