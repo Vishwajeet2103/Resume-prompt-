@@ -1,0 +1,81 @@
+{
+  "Name": "Vishwajeet Singh",
+  "Contact Information": {
+    "University": "SRM University, Chennai",
+    "Email": "vd0619@srmist.edu.in",
+    "Phone": "8094670479"
+  },
+  "Summary": "I am a college student majoring in Computer Science with a keen interest in Full Stack Development. Proficient in C++ and JavaScript, I aim to bridge front-end and back-end technologies to create impactful web applications. I have a strong ability to solve complex problems, maintain a strong work ethic, and enthusiastically tackle challenges. I am determined to contribute my skills to web development projects and grow professionally in this field.",
+  "Education": [
+    {
+      "Institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "Years": "2021 - 2025",
+      "Degree": "B.Tech. - CSE - Software Engineering",
+      "CGPA": "8.29 / 10"
+    },
+    {
+      "Institution": "Central Academy Shikshantar, Senior Secondary School, Kota",
+      "Year": "2020",
+      "Degree": "12th",
+      "Board": "CBSE",
+      "Percentage": "80 / 100"
+    },
+    {
+      "Institution": "St. Mary's High School, Mt.Abu",
+      "Year": "2018",
+      "Degree": "10th",
+      "Board": "CISCE",
+      "Percentage": "69 / 100"
+    }
+  ],
+  "Skills": {
+    "Programming": ["Python", "JavaScript", "C++"],
+    "Web Development": ["React", "Node.js"]
+  },
+  "Projects": [
+    {
+      "Title": "Real Estate App",
+      "Start Date": "02 Feb, 2024",
+      "End Date": "23 Feb, 2024",
+      "Key Skills": ["Node.js", "Express.js", "React.js", "MongoDB"],
+      "Project Link": "https://github.com/Vishwajeet2103/Mern-stack-estate-app",
+      "Description": "Developed a MERN-stack real estate application enabling users to create property listings, contact landlords, and check availability for sale and rent. Implemented user authentication and authorization, ensuring secure access to the platform. Integrated interactive features like property search, filter, and detailed listing views to enhance user experience."
+    },
+    {
+      "Title": "Youtube Video Bookmaker Extension",
+      "Start Date": "03 Sep, 2023",
+      "End Date": "12 Oct, 2023",
+      "Team Size": 2,
+      "Key Skills": ["CSS", "JavaScript", "JSON", "HTML5"],
+      "Project Link": "https://github.com/Vishwajeet2103/Youtube_Bookmark_Extension",
+      "Description": "Create and manage bookmarks with timestamps for YouTube videos using this Chrome extension. Never lose track of important moments in videos again. Easily mark, label, and jump to specific timestamps while watching YouTube content."
+    },
+    {
+      "Title": "Drum Kit",
+      "Start Date": "10 Apr, 2023",
+      "End Date": "14 May, 2023",
+      "Team Size": 1,
+      "Key Skills": ["HTML5", "CSS", "Flexbox", "JavaScript"],
+      "Project Link": "https://vishwajeet2103.github.io/DrumKit-/",
+      "Description": "Creating a drum kit in this way allows you to customize it according to your preferences, whether it's adding different drum sounds, adjusting the layout, or even incorporating animations for a more dynamic user experience."
+    }
+  ],
+  "Certifications": [
+    {
+      "Title": "Meta Front-End Developer and Meta Back-End Developer course certificate",
+      "Offered By": "Meta"
+    },
+    {
+      "Title": "Networking Basics course certificate",
+      "Offered By": "Cisco Networking Academy"
+    },
+    {
+      "Title": "Problem Solving Intermediate certificate",
+      "Offered By": "HackerRank"
+    },
+    {
+      "Title": "Web Development Bootcamp course certificate",
+      "Offered By": "Udemy"
+    }
+  ]
+}
